@@ -1,2 +1,2 @@
 # snake_game
-my snake game nokia style
+my snake game nokia style!
